@@ -1,0 +1,5 @@
+
+- Git & GitHub are already built-in in Atom.
+- All the features of them are located in upper down corner.
+- If Project's name in green color, then it means there is a new file created
+  If Project's name in beige color, then it means there is change made in file
