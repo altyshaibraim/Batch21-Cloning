@@ -1,10 +1,13 @@
                                 CLONING
-                                
+
 Cloning   is   a git term for getting Remote Repo to Local Repo from Website.
                Cloning can happen only 1 time, like publishing. Thereafter the
-               file cloned can be only modified by pulling the origin on GHD. 
+               file cloned can be only modified by pulling the origin on GHD.
 
 To Clone Repo:
- 
-On the corner of Repo, there is green button 
-Code -> Say yes to Pop-Up -> check Local Path -> 
+1)
+On the corner of Repo, there is green button
+Code -> Open With GHD -> Say yes to Pop-Up -> check Local Path -> Clone ->
+                                                          ->  Open In Atom
+2)
+On GHD File -> Clone Repository -> On Pop-Up GitHub.com -> Choose Repo -> Clone
